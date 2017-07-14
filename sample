@@ -1,0 +1,6 @@
+//Test Rule for Evaluate Marker Statusrule "Test_Rule_for_Evaluate_Marker_status" dialect "mvel" when  theMarker : MarkerIF ( id in ( 54, 55, 56 ) , applicabilityType == HealthProfileApplicabilityType.CONDVAL , status == HealthStatus.Current ) then  /* adding a comment as a placeholder since there is no action at the moment */end
+
+530352
+496296
+ICICI -  outStand : 397134.30 - EMI - 13786HDFC  -     : 450000    - EMI - 14732                
+    16727 12.5    16847 13 - 0.5 - 120          1 - 242 + 120 = 362\       16727 - 362 = 16365 (11 ROI) EMI for 500000,36 M        500000-397134 = 102866 - (1500+20000 = 21500) = 81366              16365 * 36 = 589140       13786 * 36 = 496296 + 81366  = 577662              5L - 13 - 16847  (EMI)          12 - 16605            11 - 16605 - 242 = 16363(Final)                      4.5L- 13 - 15162            11 - 15162-484(2*242) = 14678(Final) -1684                       4L- 13 - 13478            11 - 13478-484(2*242) = 12994(Final)
